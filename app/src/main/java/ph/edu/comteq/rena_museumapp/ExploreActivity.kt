@@ -96,7 +96,7 @@ fun Explore(modifier: Modifier = Modifier) {
                     shape = RoundedCornerShape(6.dp)
                 ) {
                     Text(
-                        "Book Ticket",
+                        "Tickets",
                         color = Color.Black,
                         fontFamily = playfairdisplayregular,
                         fontWeight = FontWeight.Bold
